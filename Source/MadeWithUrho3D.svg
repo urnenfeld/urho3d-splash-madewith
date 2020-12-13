@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="MadeWithUrho3D.svg"
-   inkscape:export-filename="/home/oruizdorantes2/engine/Urho3D/Source/Samples/60_madtunnel/References/Urho3DSplashLight_800.png"
+   inkscape:export-filename="/tmp/tmp.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
    enable-background="new">
@@ -193,13 +193,13 @@
        x2="424.97116"
        y2="152.56824"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75618375,0,0,1.3388236,-0.16677635,-402.00059)" />
+       gradientTransform="matrix(0.75618375,0,0,1.3529411,-0.16677635,-401.99323)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2966"
        id="linearGradient879"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.75618375,0,0,1.3388236,-0.16677635,-402.00059)"
+       gradientTransform="matrix(0.75618375,0,0,1.3529412,-0.16677635,-401.99324)"
        x1="-8.485281"
        y1="152.56824"
        x2="424.97116"
@@ -223,17 +223,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="231.73901"
-     inkscape:cy="167.15552"
+     inkscape:cx="72.639988"
+     inkscape:cy="138.87125"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g877"
      showgrid="false"
      showborder="true"
      inkscape:snap-global="false"
      inkscape:window-width="1432"
      inkscape:window-height="827"
-     inkscape:window-x="-4"
-     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -257,37 +257,43 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background Dark"
-     style="display:none">
+     style="display:inline">
     <rect
-       style="fill:url(#linearGradient879);fill-opacity:1;stroke:none;stroke-width:0.38028818;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient879);fill-opacity:1;stroke:none;stroke-width:0.38228795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect859"
        width="302.64169"
-       height="402.34378"
+       height="406.58643"
        x="-0.1667769"
        y="-402.69733"
-       transform="rotate(90)" />
+       transform="rotate(90)"
+       inkscape:export-filename="/home/oruizdorantes2/engine/Urho3D/Source/Samples/60_madtunnel/References/rect859.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Background Light"
      id="g877"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
        transform="rotate(90)"
        y="-402.69733"
        x="-0.1667769"
-       height="402.34378"
+       height="406.5864"
        width="302.64169"
        id="rect875"
-       style="fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.38028818;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.38228795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/tmp.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
   </g>
   <g
      inkscape:label="Logo"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(636.74486,378.10348)"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        id="g4148"
        transform="matrix(0.54853142,0,0,0.54853142,-185.74265,-123.14442)">
@@ -401,7 +407,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Text Gradient"
-     style="display:inline;filter:url(#filter889)"
+     style="display:none;filter:url(#filter889)"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -419,7 +425,7 @@
      inkscape:label="Text Black"
      id="g873"
      inkscape:groupmode="layer"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        id="text871"
